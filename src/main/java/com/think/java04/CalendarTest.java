@@ -1,4 +1,5 @@
 package com.think.java04;
+import java.util.Collections;
 
 /**
  * @Classname CalendarTest
@@ -8,5 +9,8 @@ package com.think.java04;
  * @Created by deer-li
  */
 public class CalendarTest {
+    public static void main(String[] args) {
+
+    }
 
 }
