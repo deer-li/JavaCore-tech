@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/traverse/TraverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/traverse/TraverseMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java04/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java04/CalendarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/CalendarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java04/CalendarTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/SingleObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpattern/SingleObject.class" afterDir="false" />
-    </list>
+    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +15,7 @@
       <file leaf-file-name="LotteryArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java03/LotteryArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
+            <state relative-caret-position="104">
               <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
@@ -37,19 +30,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Collections.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TraverseList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/traverse/TraverseList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
+            <state relative-caret-position="521">
               <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -58,37 +42,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1221">
-              <caret line="1044" selection-start-line="1044" selection-end-line="1044" />
-              <folding>
-                <element signature="e#12774#12775#0" expanded="true" />
-                <element signature="e#12829#12830#0" expanded="true" />
-                <element signature="e#37829#37830#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TraverseMap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/traverse/TraverseMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            <state relative-caret-position="104">
+              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
               <folding>
                 <element signature="e#345#361#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="371" column="15" selection-start-line="371" selection-start-column="15" selection-end-line="371" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -164,6 +125,11 @@
             <path>
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCore tech" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCore tech" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -191,32 +157,11 @@
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCore tech" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCore tech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="traverse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCore tech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.7 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
@@ -405,12 +350,12 @@
       <workItem from="1646963946173" duration="1570000" />
       <workItem from="1648121738556" duration="2317000" />
       <workItem from="1648174646923" duration="2469000" />
-      <workItem from="1648177262774" duration="3114000" />
+      <workItem from="1648177262774" duration="4705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40809000" />
+    <option name="totallyTimeSpent" value="42400000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -423,7 +368,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1453" height="865" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
@@ -435,8 +379,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896176" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3265306" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1548913" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3265306" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3605442" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26666668" />
@@ -475,13 +419,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java02/packaging.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java02/SystemIn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -728,13 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java03/LotteryArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -776,6 +706,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4264">
+          <caret line="196" column="28" lean-forward="true" selection-start-line="196" selection-start-column="28" selection-end-line="196" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1221">
@@ -788,24 +725,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4264">
-          <caret line="196" column="28" lean-forward="true" selection-start-line="196" selection-start-column="28" selection-end-line="196" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="371" column="15" selection-start-line="371" selection-start-column="15" selection-end-line="371" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/CalendarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -816,9 +739,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java03/LotteryArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/CalendarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/traverse/TraverseList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
+        <state relative-caret-position="521">
           <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -826,10 +763,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1872" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/traverse/TraverseMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        <state relative-caret-position="104">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="e#345#361#0" expanded="true" />
           </folding>
