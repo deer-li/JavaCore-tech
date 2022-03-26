@@ -99,7 +99,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="2906" />
@@ -198,14 +198,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TraverseMap">
-    <configuration name="CompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.think.java03.CompoundInterest" />
+  <component name="RunManager" selected="Application.ATypeName">
+    <configuration name="ATypeName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.think.java02.ATypeName" />
       <module name="JavaCore tech" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.think.java03.*" />
+          <option name="PATTERN" value="com.think.java02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,19 +304,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.first" />
-      <item itemvalue="Application.CompoundInterest" />
       <item itemvalue="Application.LotteryArray" />
       <item itemvalue="Application.SingletonPatternDemo" />
       <item itemvalue="Application.TraverseList" />
       <item itemvalue="Application.TraverseMap" />
+      <item itemvalue="Application.ATypeName" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ATypeName" />
         <item itemvalue="Application.TraverseMap" />
         <item itemvalue="Application.TraverseList" />
         <item itemvalue="Application.SingletonPatternDemo" />
         <item itemvalue="Application.LotteryArray" />
-        <item itemvalue="Application.CompoundInterest" />
       </list>
     </recent_temporary>
   </component>

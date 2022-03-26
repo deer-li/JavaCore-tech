@@ -1,4 +1,5 @@
 package com.think.java02;
+
 public class ATypeName {
     int a=1,b=1;
     public int sum(){
