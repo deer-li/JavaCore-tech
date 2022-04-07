@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java04/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java04/summerize04.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConstructorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConstructorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/ConstructorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            <state relative-caret-position="286">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="e#692#693#0" expanded="true" />
                 <element signature="e#734#735#0" expanded="true" />
@@ -84,6 +84,15 @@
                 <element signature="e#919#920#0" expanded="true" />
                 <element signature="e#948#949#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="summerize04.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/summerize04.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -156,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/think/java04/EmployeeCopy2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java04/ParamTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java04/ConstructorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java04/summerize04.txt" />
       </list>
     </option>
   </component>
@@ -435,12 +445,12 @@
       <workItem from="1648431142683" duration="4456000" />
       <workItem from="1648465805816" duration="693000" />
       <workItem from="1649228890951" duration="1543000" />
-      <workItem from="1649230692972" duration="20333000" />
+      <workItem from="1649230692972" duration="21505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82530000" />
+    <option name="totallyTimeSpent" value="83702000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,11 +507,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java02/mydoc/deprecated-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2367" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java02/mydoc/constant-values.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2367" />
@@ -892,8 +897,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/ConstructorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="286">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding>
             <element signature="e#692#693#0" expanded="true" />
             <element signature="e#734#735#0" expanded="true" />
@@ -904,6 +909,13 @@
             <element signature="e#919#920#0" expanded="true" />
             <element signature="e#948#949#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/summerize04.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
