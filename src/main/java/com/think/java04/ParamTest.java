@@ -24,7 +24,7 @@ public class ParamTest {
         System.out.println("Before :salary="+harry.getSalary());
         tripleSalary(harry);
         System.out.println("After :salary="+harry.getSalary());
-        //3.方法不能将新对象附加到对象参数
+        //3.方法不能将新对象附加到对象参数,也正说明java方法不是按引用调用
         System.out.println("\nTesting swap:");
         EmployeeCopy2 a = new EmployeeCopy2("A", 100);
         EmployeeCopy2 b = new EmployeeCopy2("B", 200);
