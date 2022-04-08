@@ -1,0 +1,15 @@
+java中要求equals方法有如下几大特性
+1.自反性  所谓自反性就是if（x.equals(x)）{return ture}
+2.一致性
+3.对称性
+4.传递性
+5.对于任何非null引用x,x.equals（null）→return false；
+
+       instanceof关键字是判断对象是否是T类的实例，或者是T类的子类实例；
+
+        getClass()是用来获取运行时期对象的类；
+
+
+        就是getClass()限制了对象只能是同一个类，而instanceof却允许对象是同一个类或其子类，
+        这样equals方法就变成了父类与子类也可进行equals操作了，这时候如果子类重定义了equals方法，
+        那么就可能变成父类对象equlas子类对象为true，但是子类对象equlas父类对象就为false了
