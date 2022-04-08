@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/ManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java05/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java05/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java05/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/ManagerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,130 +19,115 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="LotteryArray.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java03/LotteryArray.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="754">
-                  <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CalendarTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/CalendarTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="728">
-                  <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="StaticTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/StaticTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="572">
-                  <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ParamTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/ParamTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="884">
-                  <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ConstructorTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/ConstructorTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="546">
-                  <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="summerize04.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/summerize04.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="130">
-                  <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ManagerTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/ManagerTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="62">
-                  <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Manager.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/Manager.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="230">
-                  <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-                  <folding>
-                    <element signature="e#535#536#0" expanded="true" />
-                    <element signature="e#562#563#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/Employee.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-104">
-                  <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-                  <folding>
-                    <element signature="e#480#481#0" expanded="true" />
-                    <element signature="e#507#508#0" expanded="true" />
-                    <element signature="e#540#541#0" expanded="true" />
-                    <element signature="e#569#570#0" expanded="true" />
-                    <element signature="e#606#607#0" expanded="true" />
-                    <element signature="e#636#637#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="EmployeeTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/EmployeeTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="572">
-                  <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="Manager.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/Manager.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="386">
-                  <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CalendarTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/CalendarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="728">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/StaticTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParamTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/ParamTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding>
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#622#623#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstructorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/ConstructorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManagerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/ManagerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Manager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -177,8 +165,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/think/java04/ConstructorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java04/summerize04.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java05/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/think/java05/Manager.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java05/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java05/Manager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java05/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Student.java" />
       </list>
     </option>
   </component>
@@ -210,6 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,6 +250,16 @@
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCore tech" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="think" type="462c0819:PsiDirectoryNode" />
+              <item name="java05" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCore tech" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -267,8 +271,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ManagerTest">
+  <component name="RunManager" selected="Application.PersonTest">
     <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.think.java04.ConstructorTest" />
       <module name="JavaCore tech" />
@@ -313,24 +315,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="EmployeeCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.think.java04.EmployeeCopy" />
-      <module name="JavaCore tech" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.think.java04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.think.java05.ManagerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.think.java05.inheritance.ManagerTest" />
       <module name="JavaCore tech" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.think.java05.*" />
+          <option name="PATTERN" value="com.think.java05.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,6 +333,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.think.java04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.think.java05.abstractClasses.PersonTest" />
+      <module name="JavaCore tech" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.think.java05.abstractClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,18 +410,18 @@
     <list>
       <item itemvalue="Application.first" />
       <item itemvalue="Application.StaticTest" />
-      <item itemvalue="Application.EmployeeCopy" />
       <item itemvalue="Application.ParamTest" />
       <item itemvalue="Application.ConstructorTest" />
       <item itemvalue="Application.ManagerTest" />
+      <item itemvalue="Application.PersonTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.ManagerTest" />
         <item itemvalue="Application.ConstructorTest" />
         <item itemvalue="Application.ParamTest" />
         <item itemvalue="Application.StaticTest" />
-        <item itemvalue="Application.EmployeeCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -463,12 +465,13 @@
       <workItem from="1649318768510" duration="627000" />
       <workItem from="1649331616119" duration="609000" />
       <workItem from="1649334639571" duration="4567000" />
-      <workItem from="1649383884042" duration="2204000" />
+      <workItem from="1649383884042" duration="4916000" />
+      <workItem from="1649414910610" duration="1432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93409000" />
+    <option name="totallyTimeSpent" value="97553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,10 +496,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896176" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964157" weight="0.3510204" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20680273" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20680273" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2530466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25663084" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -506,11 +509,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863947" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49749103" weight="0.3292517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49749103" weight="0.3292517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,34 +528,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java02/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java02/packaging.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java02/first.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java02/ImportantStatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -829,13 +804,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/EmployeeCopy2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/ParamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/summerize04.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -850,36 +818,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/Manager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/ParamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="182">
+          <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/inheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/ManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding>
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-104">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="162">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/ManagerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="416">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

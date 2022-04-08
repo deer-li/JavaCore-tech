@@ -1,4 +1,4 @@
-package com.think.java05;
+package com.think.java05.inheritance;
 import java.time.LocalDate;
 
 /**
