@@ -13,3 +13,5 @@ java中要求equals方法有如下几大特性
         就是getClass()限制了对象只能是同一个类，而instanceof却允许对象是同一个类或其子类，
         这样equals方法就变成了父类与子类也可进行equals操作了，这时候如果子类重定义了equals方法，
         那么就可能变成父类对象equlas子类对象为true，但是子类对象equlas父类对象就为false了
+
+
