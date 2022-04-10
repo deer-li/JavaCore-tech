@@ -15,3 +15,5 @@ java中要求equals方法有如下几大特性
         那么就可能变成父类对象equlas子类对象为true，但是子类对象equlas父类对象就为false了
 
 
+
+
