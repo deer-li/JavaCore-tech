@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/reflection/ReflectionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java05/reflection/ReflectionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectionTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ReflectionTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/reflection/ReflectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+            <state relative-caret-position="282">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,17 +99,17 @@
       <file leaf-file-name="ObjectAnalyzerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="330">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObjectAnalyzer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ObjectAnalyzer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+            <state relative-caret-position="52">
+              <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -331,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReflectionTest">
+  <component name="RunManager" selected="Application.ObjectAnalyzerTest">
     <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.think.java05.enums.EnumTest" />
       <module name="JavaCore tech" />
@@ -354,13 +351,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.think.java05.inheritance.ManagerTest" />
+    <configuration name="ObjectAnalyzerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.think.java05.objectAnalyzer.ObjectAnalyzerTest" />
       <module name="JavaCore tech" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.think.java05.inheritance.*" />
+          <option name="PATTERN" value="com.think.java05.objectAnalyzer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,19 +434,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.first" />
-      <item itemvalue="Application.ManagerTest" />
       <item itemvalue="Application.PersonTest" />
       <item itemvalue="Application.EqualsTest" />
       <item itemvalue="Application.EnumTest" />
       <item itemvalue="Application.ReflectionTest" />
+      <item itemvalue="Application.ObjectAnalyzerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectAnalyzerTest" />
         <item itemvalue="Application.ReflectionTest" />
         <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.EqualsTest" />
         <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.ManagerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -499,12 +496,12 @@
       <workItem from="1649551485811" duration="3825000" />
       <workItem from="1649587012265" duration="10495000" />
       <workItem from="1649641181351" duration="194000" />
-      <workItem from="1649660723031" duration="1983000" />
+      <workItem from="1649660723031" duration="2554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120562000" />
+    <option name="totallyTimeSpent" value="121133000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -529,11 +526,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297491" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32896176" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964157" visible="true" weight="0.5809524" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.16502732" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49964157" visible="true" weight="0.23945579" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.16462585" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24946237" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24946237" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24946237" />
@@ -878,13 +875,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="2017" column="28" selection-start-line="2017" selection-start-column="28" selection-end-line="2017" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/reflect/Constructor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -892,27 +882,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/reflection/ReflectionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzerTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="-43">
+          <caret line="926" column="27" selection-start-line="926" selection-start-column="27" selection-end-line="926" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/reflection/ReflectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        <state relative-caret-position="282">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

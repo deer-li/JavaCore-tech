@@ -5,7 +5,6 @@ import java.lang.reflect.Array;
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
 import java.util.ArrayList;
-
 /**
  * @Classname ObjectAnalyzer
  * @Description TODO
@@ -34,6 +33,7 @@ public class ObjectAnalyzer {
                     r+=",";
                 }
                 Object val = Array.get(obj, i);
+                //isPrimitive（）判断类是不是基本类型
                 if (cl.getComponentType().isPrimitive()){
                     r+=val;
                 }else {
