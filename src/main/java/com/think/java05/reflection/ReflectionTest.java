@@ -20,16 +20,19 @@ public class ReflectionTest {
         if (args.length>0) {
             name=args[0];
         }else {
+            //从控制台获取输入
             Scanner in = new Scanner(System.in);
-            System.out.print("Enter class name (e.g. java.util.Date):");
+            System.out.println("Enter class name (e.g. java.util.Date):");
             name=in.next();
         }
+        //forName方法返回name所属的类
         Class cl = Class.forName(name);
         Class supercl = cl.getSuperclass();
         String m = Modifier.toString(cl.getModifiers());
         if (m.length()>0){
             System.out.print(m+" ");
         }
+
         System.out.print("class"+name);
         if (supercl!=null && supercl!=Objects.class){
             System.out.print("extends"+supercl.getName());
@@ -43,17 +46,24 @@ public class ReflectionTest {
         System.out.println("}");
     }
 
-    private static void printFields(Class cl) {
-        Field[] fields = cl.getDeclaredFields();
-        for (Field f:fields){
-            Class<?> type = f.getType();
-            String name = f.getName();
-            System.out.print("   ");
-            String mo = Modifier.toString(f.getModifiers());
-            if (mo.length()>0){
-                System.out.print(mo+" ");
+    private static void printConstructors(Class cl) {
+        Constructor[] constructors = cl.getDeclaredConstructors();
+        for (Constructor c:constructors){
+            String name = c.getName();
+            System.out.print("  ");
+            String modd = Modifier.toString(c.getModifiers());
+            if (modd.length()>0){
+                System.out.print(modd+" ");
             }
-            System.out.print(type.getName()+" "+name+";");
+            System.out.print(name+"(");
+            Class[] parameterTypes = c.getParameterTypes();
+            for (int j=0;j<parameterTypes.length;j++){
+                if (j>0){
+                    System.out.print(",");
+                }
+                System.out.print(parameterTypes[j].getName());
+            }
+            System.out.println(");");
         }
     }
 
@@ -79,24 +89,17 @@ public class ReflectionTest {
         }
     }
 
-    private static void printConstructors(Class cl) {
-        Constructor[] constructors = cl.getDeclaredConstructors();
-        for (Constructor c:constructors){
-            String name = c.getName();
-            System.out.print("  ");
-            String modd = Modifier.toString(c.getModifiers());
-            if (modd.length()>0){
-                System.out.print(modd+" ");
+    private static void printFields(Class cl) {
+        Field[] fields = cl.getDeclaredFields();
+        for (Field f:fields){
+            Class type = f.getType();
+            String name = f.getName();
+            System.out.print("   ");
+            String mo = Modifier.toString(f.getModifiers());
+            if (mo.length()>0){
+                System.out.print(mo+" ");
             }
-            System.out.print(name+"(");
-            Class[] parameterTypes = c.getParameterTypes();
-            for (int j=0;j<parameterTypes.length;j++){
-                if (j>0){
-                    System.out.print(",");
-                }
-                System.out.print(parameterTypes[j].getName());
-            }
-            System.out.println(");");
+            System.out.println(type.getName()+" "+name+";");
         }
     }
 
