@@ -19,7 +19,6 @@ public class Employee extends Person{
         hireday =LocalDate.of(year,month,day) ;
     }
 
-
     public double getSalary() {
         return salary;
     }
