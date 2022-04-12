@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="" />
+    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,16 +41,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#406#407#0" expanded="true" />
                 <element signature="e#433#434#0" expanded="true" />
                 <element signature="e#466#467#0" expanded="true" />
                 <element signature="e#495#496#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloneTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,6 +147,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/EmployeeSortTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java" />
       </list>
     </option>
   </component>
@@ -246,7 +272,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="think" type="462c0819:PsiDirectoryNode" />
               <item name="java06" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="clone" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
@@ -295,7 +321,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeeSortTest">
+  <component name="RunManager" selected="Application.TimerTest">
+    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.think.java06.clone.CloneTest" />
+      <module name="JavaCore tech" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.think.java06.clone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="EmployeeSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.think.java06.interfaces.EmployeeSortTest" />
       <module name="JavaCore tech" />
@@ -303,28 +340,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.think.java06.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.think.java05.enums.EnumTest" />
-      <module name="JavaCore tech" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.think.java05.enums.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.think.java05.equals.EqualsTest" />
-      <module name="JavaCore tech" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.think.java05.equals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,6 +362,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.think.java05.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.think.java06.timer.TimerTest" />
+      <module name="JavaCore tech" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.think.java06.timer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,19 +427,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.first" />
-      <item itemvalue="Application.EqualsTest" />
-      <item itemvalue="Application.EnumTest" />
       <item itemvalue="Application.ReflectionTest" />
       <item itemvalue="Application.ObjectAnalyzerTest" />
       <item itemvalue="Application.EmployeeSortTest" />
+      <item itemvalue="Application.CloneTest" />
+      <item itemvalue="Application.TimerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimerTest" />
+        <item itemvalue="Application.CloneTest" />
         <item itemvalue="Application.EmployeeSortTest" />
         <item itemvalue="Application.ObjectAnalyzerTest" />
         <item itemvalue="Application.ReflectionTest" />
-        <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.EqualsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -463,12 +489,12 @@
       <workItem from="1649551485811" duration="3825000" />
       <workItem from="1649587012265" duration="10495000" />
       <workItem from="1649641181351" duration="194000" />
-      <workItem from="1649660723031" duration="11544000" />
+      <workItem from="1649660723031" duration="12682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130123000" />
+    <option name="totallyTimeSpent" value="131261000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,10 +520,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32896176" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964157" weight="0.44625852" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.16462585" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.16462585" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24946237" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24946237" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24946237" />
@@ -529,20 +555,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="2354" selection-start-line="2354" selection-end-line="2354" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4264">
-          <caret line="196" column="28" lean-forward="true" selection-start-line="196" selection-start-column="28" selection-end-line="196" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1221">
@@ -876,12 +888,29 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#406#407#0" expanded="true" />
             <element signature="e#433#434#0" expanded="true" />
             <element signature="e#466#467#0" expanded="true" />
             <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
