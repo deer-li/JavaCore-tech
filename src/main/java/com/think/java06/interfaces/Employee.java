@@ -28,6 +28,7 @@ public class Employee implements Comparable<Employee> {
         double raise =salary*byPercent/100;
         salary+=raise;
     }
+
     //compareTo方法和equals方法在类继承的时候，比较时有一样的问题，
     //即当子类方法要重写上述两个方法时候，就必须做好准备去比较子类和父类，并不是仅仅将父类强制转换成子类
     //检测方式：if(getClass()!=参数.getClass()) throw new ClassCastException();
