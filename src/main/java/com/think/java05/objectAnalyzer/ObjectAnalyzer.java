@@ -33,7 +33,8 @@ public class ObjectAnalyzer {
                     r+=",";
                 }
                 Object val = Array.get(obj, i);
-                //isPrimitive（）判断类是不是基本类型
+                //getComponentType()返回类元素类型
+                //isPrimitive（）判断类中元素类型是不是基本类型
                 if (cl.getComponentType().isPrimitive()){
                     r+=val;
                 }else {
