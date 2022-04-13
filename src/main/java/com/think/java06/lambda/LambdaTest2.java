@@ -7,9 +7,11 @@ package com.think.java06.lambda;
  * @Date 2022/4/13 15:41
  * @Created by deer-li
  */
+//lambda表达式主要用来定义行内执行的方法类型接口，例如一个简单方法接口，
+// 如下，我们使用各种类型的lambda表达式来定义MathOperation接口的方法，
+// 然后我们定义了sayMessage的执行
 public class LambdaTest2 {
     public static void main(String[] args) {
-
         LambdaTest2 tester = new LambdaTest2();
         MathOperation addition=(int a,int b)->a+b;
         MathOperation sub=(a,b)->a-b;
