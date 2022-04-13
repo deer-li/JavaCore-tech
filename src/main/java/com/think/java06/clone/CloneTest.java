@@ -12,7 +12,7 @@ public class CloneTest {
         Employee original = new Employee("!", 5000);
         original.setHireDay(1000,1,1);
         Employee copy = original.clone();
-        copy.raiseSalary(10);
+        copy.raiseSalary(100);
         copy.setHireDay(2002,11,10);
         System.out.println("original="+original);
         System.out.println("copy="+copy);

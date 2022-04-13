@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="" />
+    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java06/timer/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java06/timer/TimerTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,23 +45,24 @@
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="29" column="5" selection-start-line="26" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="910">
+              <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
               <folding>
                 <element signature="e#406#407#0" expanded="true" />
                 <element signature="e#433#434#0" expanded="true" />
                 <element signature="e#466#467#0" expanded="true" />
                 <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+            <state relative-caret-position="226">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,8 +73,8 @@
       <file leaf-file-name="CloneTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="182">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -77,8 +82,8 @@
       <file leaf-file-name="TimerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/timer/TimerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+            <state relative-caret-position="183">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,20 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Instant.java" pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/time/Instant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="342" column="49" selection-start-line="342" selection-start-column="49" selection-end-line="342" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="EmployeeSortTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/EmployeeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="431">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -163,11 +159,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java06/EmployeeSortTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/EmployeeSortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java06/timer/TimerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/EmployeeSortTest.java" />
       </list>
     </option>
   </component>
@@ -330,6 +326,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="339" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="339" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="340" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="339" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="342" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="342" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="342" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="341" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/JavaCore tech/src/main/java/com/think/java03/Retirement.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -528,12 +540,12 @@
       <workItem from="1649551485811" duration="3825000" />
       <workItem from="1649587012265" duration="10495000" />
       <workItem from="1649641181351" duration="194000" />
-      <workItem from="1649660723031" duration="15609000" />
+      <workItem from="1649660723031" duration="21370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134188000" />
+    <option name="totallyTimeSpent" value="139949000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -546,7 +558,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1453" height="865" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
@@ -557,8 +568,8 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003584" side_tool="true" weight="0.414966" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297491" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32896176" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964157" weight="0.44625852" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32789117" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964157" weight="0.43265307" />
       <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.16462585" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -581,6 +592,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -594,11 +631,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1872" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/traverse/TraverseMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -889,33 +921,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="29" column="5" selection-start-line="26" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -930,34 +939,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/EmployeeSortTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/time/Instant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="8944">
+          <caret line="439" column="11" lean-forward="true" selection-start-line="439" selection-start-column="11" selection-end-line="439" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/GregorianCalendar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="195">
+          <caret line="638" column="11" selection-start-line="638" selection-start-column="11" selection-end-line="638" selection-end-column="11" />
+          <folding>
+            <element signature="e#25897#25898#0" expanded="true" />
+            <element signature="e#25954#25955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+          <folding>
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/interfaces/EmployeeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/timer/TimerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+        <state relative-caret-position="183">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/time/Instant.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/CloneTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="342" column="49" selection-start-line="342" selection-start-column="49" selection-end-line="342" selection-end-column="49" />
+        <state relative-caret-position="182">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/clone/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
