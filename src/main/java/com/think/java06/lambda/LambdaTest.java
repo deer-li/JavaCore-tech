@@ -13,7 +13,7 @@ import java.util.Date;
  */
 //lambda表达式的书写格式
     // （parameters）-> 表达式
-    // （parameters  *如果参数不止一个，就不能省略小括号* ）->{statements *如果表达式不止一条，那就要外面的大括号*}
+    // （parameters  *如果参数不止一个，就不能省略小括号* ）-> {statements *如果表达式不止一条，那就要外面的大括号*}
 public class LambdaTest {
     public static void main(String[] args) {
         String[] plants = {"M1", "V11", "E122", "J1", "K2", "S44", "U55543", "N55666"};

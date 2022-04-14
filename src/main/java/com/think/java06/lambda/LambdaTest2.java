@@ -27,6 +27,9 @@ public class LambdaTest2 {
         gre2.sayMessage("google");
 
     }
+    //这是个接口，里面有返回值为整型值的方法，lambda表达式就是用来实现这样的接口的，
+    //把参数传入接口中的方法参数列表中
+
     interface MathOperation{
         int operation(int a,int b);
     }
