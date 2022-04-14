@@ -7,6 +7,7 @@ package com.think.java06.staticInnerClass;
  * @Date 2022/4/14 15:46
  * @Created by deer-li
  */
+
 public class StaticInnerClassTest {
     public static void main(String[] args) {
         double[] values = new double[20];
