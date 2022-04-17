@@ -13,15 +13,16 @@ import java.time.Instant;
  * @Date 2022/4/14 14:58
  * @Created by deer-li
  */
+
 public class InnerClassTest {
     public static void main(String[] args) {
         TalkingClock clock = new TalkingClock(1000,true);
         clock.start();
         JOptionPane.showMessageDialog(null,"Quit program?");
         System.exit(0);
-
     }
 }
+
 class TalkingClock{
     private int interval;
     private boolean beep;
@@ -35,8 +36,8 @@ class TalkingClock{
         Timer timer = new Timer(interval, listener);
         timer.start();
     }
-    public class TimePrinter implements ActionListener{
 
+    public class TimePrinter implements ActionListener{
         @Override
         public void actionPerformed(ActionEvent e) {
             System.out.println("At the tone,the time is " +Instant.ofEpochMilli(e.getWhen()));
