@@ -25,7 +25,6 @@ public class AnoymousInnerClassTest {
 class TalkingClock{
     public void start(int interval,boolean beep){
         ActionListener actionListener = new ActionListener(){
-
             @Override
             public void actionPerformed(ActionEvent e) {
                 System.out.println("At the tone,the time is " +Instant.ofEpochMilli(e.getWhen()));
