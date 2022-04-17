@@ -19,12 +19,15 @@ public class ProxyTest {
         for (int i=0;i< elements.length;i++){
             Integer value=i+1;
             TraceHandler ha = new TraceHandler(value);
+            //创建代理对象
             Object proxy = Proxy.newProxyInstance(ClassLoader.getSystemClassLoader(), new Class[]{Comparable.class}, ha);
             elements[i]=proxy;
         }
         int integer= new Random().nextInt(elements.length)+ 1;
         int result= Arrays.binarySearch(elements,integer);
-        if (result>=0) System.out.println(elements[result]);
+        if (result>=0) {
+            System.out.println(elements[result]);
+        }
     }
 }
 
@@ -46,7 +49,7 @@ class TraceHandler implements InvocationHandler{
                 }
             }
         }
-        System.out.print(")");
+        System.out.println(")");
         return method.invoke(target,args);
     }
 }
