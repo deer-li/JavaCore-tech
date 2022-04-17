@@ -27,6 +27,7 @@ public class ProxyTest {
         if (result>=0) System.out.println(elements[result]);
     }
 }
+
 class TraceHandler implements InvocationHandler{
     private Object target;
     public TraceHandler(Object t) {
