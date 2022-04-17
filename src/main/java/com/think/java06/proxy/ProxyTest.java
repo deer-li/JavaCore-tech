@@ -13,6 +13,7 @@ import java.util.Random;
  * @Date 2022/4/14 16:21
  * @Created by deer-li
  */
+
 public class ProxyTest {
     public static void main(String[] args) {
         Object[] elements = new Object[1000];
