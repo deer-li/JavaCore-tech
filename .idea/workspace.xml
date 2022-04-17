@@ -309,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProxyTest">
+  <component name="RunManager" selected="Application.StaticInnerClassTest">
     <configuration name="AnoymousInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.think.java06.anoymousInnerClass.AnoymousInnerClassTest" />
       <module name="JavaCore tech" />
@@ -423,8 +423,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProxyTest" />
         <item itemvalue="Application.StaticInnerClassTest" />
+        <item itemvalue="Application.ProxyTest" />
         <item itemvalue="Application.AnoymousInnerClassTest" />
         <item itemvalue="Application.InnerClassTest" />
         <item itemvalue="Application.LambdaTest4" />
