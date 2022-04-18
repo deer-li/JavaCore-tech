@@ -18,7 +18,7 @@ public class StackTest
     {
         System.out.println("factorial(" + n + "):");
         StackWalker walker = StackWalker.getInstance();
-        walker.forEach(System.out::println);
+        walker.forEach(System.out::println);//这里用到一个方法引用
         int r;
         if (n <= 1) r = 1;
         else r = n * factorial(n - 1);

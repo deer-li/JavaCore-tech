@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java07/stackTrace/StackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaCore tech.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaCore tech.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/LotteryDrawing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/LotteryOdds.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java03/LotteryOdds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/Retirement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java03/Retirement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/Retirement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java03/Retirement2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/CalendarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java04/CalendarTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/enums/EnumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java05/enums/EnumTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/equals/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java05/equals/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/equals/EqualsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java05/equals/EqualsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/equals/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java05/equals/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/inheritance/ManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java05/inheritance/ManagerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/objectAnalyzer/ObjectAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java05/objectAnalyzer/ObjectAnalyzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/objectAnalyzer/ObjectAnalyzerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java05/objectAnalyzer/ObjectAnalyzerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/reflection/ReflectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/innerClass/InnerClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java06/innerClass/InnerClassTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/innerClass/TalkingClock$TimePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java06/innerClass/TalkingClock$TimePrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/innerClass/TalkingClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/think/java06/innerClass/TalkingClock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/SingletonPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/traverse/TraverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/traverse/TraverseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/traverse/TraverseMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/traverse/TraverseMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java07/logging/LoggingImageViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java07/stackTrace/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java07/stackTrace/StackTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,11 +74,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StackTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StackTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java07/stackTrace/StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="211">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoggingImageViewer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java07/logging/LoggingImageViewer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1932#1933#0" expanded="true" />
+                <element signature="e#2038#2039#0" expanded="true" />
+                <element signature="e#2086#2087#0" expanded="true" />
+                <element signature="e#2134#2135#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/think/java03/Retirement.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java03/Retirement2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java03/LotteryOdds.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java03/LotteryDrawing.java" />
@@ -186,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/think/java06/innerClass/InnerClassTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java07/stackTrace/StackTraceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java07/stackTrace/StackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java07/logging/LoggingImageViewer.java" />
       </list>
     </option>
   </component>
@@ -281,7 +276,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="think" type="462c0819:PsiDirectoryNode" />
               <item name="java07" type="462c0819:PsiDirectoryNode" />
-              <item name="stackTrace" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
@@ -346,7 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackTest">
+  <component name="RunManager" selected="Application.LoggingImageViewer">
     <configuration name="AnoymousInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.think.java06.anoymousInnerClass.AnoymousInnerClassTest" />
       <module name="JavaCore tech" />
@@ -369,13 +364,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LambdaTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.think.java06.lambda.LambdaTest4" />
+    <configuration name="LoggingImageViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.think.java07.logging.LoggingImageViewer" />
       <module name="JavaCore tech" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.think.java06.lambda.*" />
+          <option name="PATTERN" value="com.think.java07.logging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -466,19 +461,19 @@
     <list>
       <item itemvalue="Application.first" />
       <item itemvalue="Application.StaticInnerClassTest" />
-      <item itemvalue="Application.LambdaTest4" />
       <item itemvalue="Application.InnerClassTest" />
       <item itemvalue="Application.AnoymousInnerClassTest" />
       <item itemvalue="Application.ProxyTest" />
       <item itemvalue="Application.StackTest" />
+      <item itemvalue="Application.LoggingImageViewer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoggingImageViewer" />
         <item itemvalue="Application.StackTest" />
         <item itemvalue="Application.ProxyTest" />
         <item itemvalue="Application.AnoymousInnerClassTest" />
         <item itemvalue="Application.InnerClassTest" />
-        <item itemvalue="Application.LambdaTest4" />
       </list>
     </recent_temporary>
   </component>
@@ -536,12 +531,12 @@
       <workItem from="1649985333555" duration="1631000" />
       <workItem from="1649999142306" duration="1193000" />
       <workItem from="1650163202056" duration="20509000" />
-      <workItem from="1650265787617" duration="287000" />
+      <workItem from="1650265787617" duration="3071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182675000" />
+    <option name="totallyTimeSpent" value="185459000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -558,7 +553,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49749103" visible="true" weight="0.3292517" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49749103" weight="0.3292517" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -566,7 +561,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297491" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32789117" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964157" weight="0.39319727" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964157" visible="true" weight="0.39319727" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.1904762" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -628,13 +623,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -971,8 +959,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java07/stackTrace/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="211">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java07/logging/LoggingImageViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1932#1933#0" expanded="true" />
+            <element signature="e#2038#2039#0" expanded="true" />
+            <element signature="e#2086#2087#0" expanded="true" />
+            <element signature="e#2134#2135#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
