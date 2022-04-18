@@ -46,7 +46,7 @@ public class LoggingImageViewer {
 }
 class ImageViewerFrame extends JFrame{
     private static final int DEFAULT_WIDTH=300;
-    private static final int DEFAULT_HEIGHT=600;
+    private static final int DEFAULT_HEIGHT=300;
     private JLabel label;
     private static Logger logger= Logger.getLogger("com.think.java07");
     public ImageViewerFrame(){
@@ -112,7 +112,6 @@ class WindowHandler extends StreamHandler{
         setOutputStream(new OutputStream() {
             @Override
             public void write(int b) throws IOException {
-
             }
             @Override
             public void write(byte[] b, int off, int len) throws IOException {
