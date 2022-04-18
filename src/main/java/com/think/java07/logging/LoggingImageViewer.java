@@ -63,7 +63,7 @@ class ImageViewerFrame extends JFrame{
         exitItem.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                logger.fine("Exiting..");
+                logger.fine("Exiting.");
                 System.exit(0);
             }
         });
