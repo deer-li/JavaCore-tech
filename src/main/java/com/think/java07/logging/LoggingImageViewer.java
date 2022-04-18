@@ -17,6 +17,7 @@ import java.util.logging.*;
  * @Date 2022/4/18 15:31
  * @Created by deer-li
  */
+
 public class LoggingImageViewer {
     public static void main(String[] args) {
         if (System.getProperty("java.util.logging.config.class")==null&&
@@ -97,6 +98,7 @@ class ImageViewerFrame extends JFrame{
         }
     }
 }
+
 class WindowHandler extends StreamHandler{
     private JFrame frame;
     public WindowHandler(){
@@ -112,7 +114,6 @@ class WindowHandler extends StreamHandler{
             public void write(int b) throws IOException {
 
             }
-
             @Override
             public void write(byte[] b, int off, int len) throws IOException {
                 output.append(new String(b,off,len));
