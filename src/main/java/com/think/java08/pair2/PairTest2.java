@@ -25,6 +25,7 @@ public class PairTest2 {
     }
 }
 class ArrayAlg{
+    //泛型方法的定义格式
     public static <T extends Comparable> Pair<T> minmax(T[] a){
         if (a==null||a.length==0){
             return null;

@@ -7,6 +7,7 @@ package com.think.java08.pair1;
  * @Date 2022/4/19 15:39
  * @Created by deer-li
  */
+//泛型类的定义格式
 public class Pair<T> {
     private T first;
     private T second;

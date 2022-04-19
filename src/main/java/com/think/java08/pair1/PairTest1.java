@@ -1,8 +1,5 @@
 package com.think.java08.pair1;
 
-
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-
 /**
  * @Classname PairTest1
  * @Description TODO
