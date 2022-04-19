@@ -16,7 +16,6 @@ public class PairTest2 {
                 LocalDate.of(1908, 11, 10),
                 LocalDate.of(1909, 11, 10),
                 LocalDate.of(1910, 11, 10),
-
         };
         Pair<LocalDate> mm = ArrayAlg.minmax(birthday);
         System.out.println("min="+mm.getFirst());
