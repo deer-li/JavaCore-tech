@@ -45,7 +45,6 @@ public class PairTest3 {
         result.setFirst(min);
         result.setSecond(max);
     }
-
     private static void printBuddies(Pair<? extends Employee> p) {
         Employee first = p.getFirst();
         Employee second = p.getSecond();
