@@ -50,8 +50,8 @@
       <file leaf-file-name="PairTest3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java08/pair3/PairTest3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="479">
+              <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#470#479#0" expanded="true" />
@@ -595,12 +595,12 @@
       <workItem from="1650163202056" duration="20509000" />
       <workItem from="1650265787617" duration="5297000" />
       <workItem from="1650353316014" duration="4858000" />
-      <workItem from="1650785425943" duration="5392000" />
+      <workItem from="1650785425943" duration="5953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197935000" />
+    <option name="totallyTimeSpent" value="198496000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1058,8 +1058,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java08/pair3/PairTest3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="479">
+          <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#470#479#0" expanded="true" />

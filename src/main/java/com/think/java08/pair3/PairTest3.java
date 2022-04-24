@@ -23,9 +23,9 @@ public class PairTest3 {
         Manager[] managers={ceo,cfo};
         Pair<Employee> result = new Pair<>();
         minmax(managers,result);
-        System.out.println("first"+result.getFirst().getName()+",second:"+result.getSecond().getName());
+        System.out.println("first "+result.getFirst().getName()+",second:"+result.getSecond().getName());
         maxminBonus(managers,result);
-        System.out.println("first"+result.getFirst().getName()+",second:"+result.getSecond().getName());
+        System.out.println("first "+result.getFirst().getName()+",second:"+result.getSecond().getName());
 
     }
 
@@ -48,7 +48,7 @@ public class PairTest3 {
     private static void printBuddies(Pair<? extends Employee> p) {
         Employee first = p.getFirst();
         Employee second = p.getSecond();
-        System.out.println(first.getName()+"and"+second.getName()+"are buddies");
+        System.out.println(first.getName()+" and "+second.getName()+" are buddies");
     }
 
 }
