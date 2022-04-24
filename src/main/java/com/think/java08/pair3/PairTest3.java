@@ -39,6 +39,7 @@ public class PairTest3 {
         Manager min=managers[0];
         Manager max=managers[0];
         for (int i=1;i<managers.length;i++){
+
             if (min.getBonus()>managers[i].getBonus()) min=managers[i];
             if (max.getBonus()<managers[i].getBonus()) max=managers[i];
         }
