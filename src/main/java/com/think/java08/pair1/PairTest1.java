@@ -1,5 +1,4 @@
 package com.think.java08.pair1;
-
 /**
  * @Classname PairTest1
  * @Description TODO
