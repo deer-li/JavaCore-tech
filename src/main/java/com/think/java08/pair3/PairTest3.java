@@ -27,10 +27,12 @@ public class PairTest3 {
         System.out.println("first "+result.getFirst().getName()+",second:"+result.getSecond().getName());
 
     }
-
+    //通配符继承超类
     private static void maxminBonus(Manager[] managers, Pair<? super Manager> result) {
+
         minmax(managers,result);
         PairAlg.swapHelper(result);
+
     }
 
     private static void minmax(Manager[] managers, Pair<? super Manager> result) {
@@ -38,7 +40,6 @@ public class PairTest3 {
         Manager min=managers[0];
         Manager max=managers[0];
         for (int i=1;i<managers.length;i++){
-
             if (min.getBonus()>managers[i].getBonus()) min=managers[i];
             if (max.getBonus()<managers[i].getBonus()) max=managers[i];
         }
@@ -59,6 +60,7 @@ class PairAlg{
     public static void swap(Pair<?> p){
         swapHelper(p);
     }
+
     public static <T> void swapHelper(Pair<T> p) {
         T t=p.getFirst();
         p.setFirst(p.getSecond());
