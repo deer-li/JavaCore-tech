@@ -52,7 +52,6 @@ public class TypeLiterals {
 }
 class Formatter{
     private Map<TypeLiteral<?>,Function<?,String>> rules=new HashMap<>();
-
     public <T> void forType(TypeLiteral<T> type,Function<T,String> formatterForType){
         rules.put(type,formatterForType);
     }
@@ -100,7 +99,6 @@ class TypeLiteral<T>{
             return  type.toString();
         }
     }
-
     @Override
     public boolean equals(Object obj) {
         return obj instanceof TypeLiteral && type.equals(((TypeLiteral<?>)obj).type);
