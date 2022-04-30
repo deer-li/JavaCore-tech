@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/TypeLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java09/linkerList/LinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/TypeLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/TypeLiterals.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +42,7 @@
       <file leaf-file-name="GenericReflectionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/GenericReflectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
+            <state relative-caret-position="1118">
               <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -50,22 +51,167 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TypeLiterals.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TypeLiterals.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/TypeLiterals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="826">
+              <caret line="104" column="5" lean-forward="true" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
               <folding>
-                <element signature="e#2154#2184#1" expanded="true" />
-                <element signature="e#3112#3113#0" expanded="true" />
-                <element signature="e#3131#3132#0" expanded="true" />
-                <element signature="e#3190#3191#0" expanded="true" />
-                <element signature="e#3232#3233#0" expanded="true" />
-                <element signature="e#3481#3482#0" expanded="true" />
-                <element signature="e#3573#3574#0" expanded="true" />
-                <element signature="e#3600#3601#0" expanded="true" />
-                <element signature="e#3626#3627#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2297#2327#1" expanded="true" />
+                <element signature="e#3093#3094#0" expanded="true" />
+                <element signature="e#3123#3124#0" expanded="true" />
+                <element signature="e#3171#3172#0" expanded="true" />
+                <element signature="e#3224#3225#0" expanded="true" />
+                <element signature="e#3461#3462#0" expanded="true" />
+                <element signature="e#3553#3554#0" expanded="true" />
+                <element signature="e#3580#3581#0" expanded="true" />
+                <element signature="e#3618#3619#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java09/linkerList/LinkedListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/AbstractList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="336" column="18" selection-start-line="336" selection-start-column="18" selection-end-line="336" selection-end-column="18" />
+              <folding>
+                <element signature="e#10079#10080#0" expanded="true" />
+                <element signature="e#10117#10118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListIterator.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/ListIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="65" column="35" lean-forward="true" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/java.util.LinkedList" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/java.util.LinkedList">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.util.LinkedList</OriginalElement>
+              <nodes>
+                <node x="287.0" y="162.0">java.util.List</node>
+                <node x="115.00000000000003" y="162.0">java.util.AbstractCollection</node>
+                <node x="428.0" y="324.0">java.lang.Cloneable</node>
+                <node x="269.8089285714286" y="81.0">java.util.Collection</node>
+                <node x="162.50000000000003" y="243.0">java.util.AbstractList</node>
+                <node x="374.0" y="162.0">java.util.Queue</node>
+                <node x="284.45178571428573" y="405.0">java.util.LinkedList</node>
+                <node x="374.5" y="243.0">java.util.Deque</node>
+                <node x="132.00000000000003" y="324.0">java.util.AbstractSequentialList</node>
+                <node x="276.8089285714286" y="0.0">java.lang.Iterable</node>
+                <node x="0.0" y="324.0">java.io.Serializable</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.util.LinkedList" target="java.util.Deque">
+                  <point x="20.80000000000001" y="-15.5" />
+                  <point x="357.25178571428575" y="375.0" />
+                  <point x="417.5" y="375.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="java.util.AbstractSequentialList" target="java.util.AbstractList">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="java.util.LinkedList" target="java.util.List">
+                  <point x="0.0" y="-15.5" />
+                  <point x="16.75" y="15.5" />
+                </edge>
+                <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+                  <point x="-28.5" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="java.util.Queue" target="java.util.Collection">
+                  <point x="0.0" y="-15.5" />
+                  <point x="417.5" y="137.0" />
+                  <point x="357.3089285714286" y="137.0" />
+                  <point x="35.0" y="15.5" />
+                </edge>
+                <edge source="java.util.LinkedList" target="java.lang.Cloneable">
+                  <point x="41.60000000000002" y="-15.5" />
+                  <point x="378.05178571428576" y="385.0" />
+                  <point x="480.5" y="385.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="java.util.LinkedList" target="java.io.Serializable">
+                  <point x="-41.599999999999966" y="-15.5" />
+                  <point x="294.85178571428577" y="385.0" />
+                  <point x="56.0" y="385.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="java.util.List" target="java.util.Collection">
+                  <point x="0.0" y="-15.5" />
+                  <point x="320.5" y="137.0" />
+                  <point x="322.3089285714286" y="137.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="java.util.Collection" target="java.lang.Iterable">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="java.util.Deque" target="java.util.Queue">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="java.util.AbstractList" target="java.util.List">
+                  <point x="28.5" y="-15.5" />
+                  <point x="248.00000000000003" y="218.0" />
+                  <point x="303.75" y="218.0" />
+                  <point x="-16.75" y="15.5" />
+                </edge>
+                <edge source="java.util.LinkedList" target="java.util.AbstractSequentialList">
+                  <point x="-20.80000000000001" y="-15.5" />
+                  <point x="315.6517857142857" y="375.0" />
+                  <point x="219.50000000000003" y="375.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="java.util.AbstractCollection" target="java.util.Collection">
+                  <point x="0.0" y="-15.5" />
+                  <point x="191.00000000000003" y="137.0" />
+                  <point x="287.3089285714286" y="137.0" />
+                  <point x="-35.0" y="15.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-41.0" y="209.0" />
+              <SelectedNodes>
+                <node>java.io.Serializable</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParameterizedType.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/lang/reflect/ParameterizedType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -92,7 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/traverse/TraverseMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java02/ATypeName.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java03/LotteryArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java04/CalendarTest.java" />
@@ -143,6 +288,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/GenericReflectionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/genericReflection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/TypeLiterals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/think/java09/linkerList/LinkedListTest.java" />
       </list>
     </option>
   </component>
@@ -185,6 +331,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,7 +374,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="think" type="462c0819:PsiDirectoryNode" />
-              <item name="java08" type="462c0819:PsiDirectoryNode" />
+              <item name="java09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
@@ -234,8 +383,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="think" type="462c0819:PsiDirectoryNode" />
-              <item name="java08" type="462c0819:PsiDirectoryNode" />
-              <item name="genericReflection" type="462c0819:PsiDirectoryNode" />
+              <item name="java09" type="462c0819:PsiDirectoryNode" />
+              <item name="linkerList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
@@ -249,9 +398,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,7 +448,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TypeLiterals">
+  <component name="RunManager" selected="Application.LinkedListTest">
     <configuration name="GenericReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.think.java08.genericReflection.GenericReflectionTest" />
       <module name="JavaCore tech" />
@@ -314,13 +460,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PairTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.think.java08.pair1.PairTest1" />
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.think.java09.linkerList.LinkedListTest" />
       <module name="JavaCore tech" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.think.java08.pair1.*" />
+          <option name="PATTERN" value="com.think.java09.linkerList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,19 +566,19 @@
     <list>
       <item itemvalue="Application.first" />
       <item itemvalue="Application.StaticInnerClassTest" />
-      <item itemvalue="Application.PairTest1" />
       <item itemvalue="Application.PairTest2" />
       <item itemvalue="Application.PairTest3" />
       <item itemvalue="Application.GenericReflectionTest" />
       <item itemvalue="Application.TypeLiterals" />
+      <item itemvalue="Application.LinkedListTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.TypeLiterals" />
         <item itemvalue="Application.GenericReflectionTest" />
         <item itemvalue="Application.PairTest3" />
         <item itemvalue="Application.PairTest2" />
-        <item itemvalue="Application.PairTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -496,12 +642,13 @@
       <workItem from="1650973020753" duration="6149000" />
       <workItem from="1651024491423" duration="451000" />
       <workItem from="1651024963444" duration="14000" />
-      <workItem from="1651227174693" duration="1933000" />
+      <workItem from="1651227174693" duration="3987000" />
+      <workItem from="1651282489354" duration="5989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209413000" />
+    <option name="totallyTimeSpent" value="217456000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,6 +665,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49749103" weight="0.3292517" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -525,13 +673,12 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297491" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32789117" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964157" weight="0.25714287" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49964157" visible="true" weight="0.25714287" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2489796" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.21218638" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.21505377" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297491" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3292517" />
       <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.24946237" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24874552" />
       <window_info id="UI Designer" order="4" />
@@ -540,10 +687,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863947" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49749103" weight="0.3292517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +727,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -588,63 +735,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="926" column="27" selection-start-line="926" selection-start-column="27" selection-end-line="926" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/objectAnalyzer/ObjectAnalyzerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/inheritance/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/abstractClasses/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java05/enums/EnumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="883" column="16" selection-start-line="883" selection-start-column="16" selection-end-line="883" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/time/Instant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8944">
@@ -932,16 +1022,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/genericReflection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/genericReflection.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/GenericReflectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="1118">
           <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -949,21 +1033,184 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/lang/reflect/ParameterizedType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.LinkedList">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.LinkedList</OriginalElement>
+          <nodes>
+            <node x="287.0" y="162.0">java.util.List</node>
+            <node x="115.00000000000003" y="162.0">java.util.AbstractCollection</node>
+            <node x="428.0" y="324.0">java.lang.Cloneable</node>
+            <node x="269.8089285714286" y="81.0">java.util.Collection</node>
+            <node x="162.50000000000003" y="243.0">java.util.AbstractList</node>
+            <node x="374.0" y="162.0">java.util.Queue</node>
+            <node x="284.45178571428573" y="405.0">java.util.LinkedList</node>
+            <node x="374.5" y="243.0">java.util.Deque</node>
+            <node x="132.00000000000003" y="324.0">java.util.AbstractSequentialList</node>
+            <node x="276.8089285714286" y="0.0">java.lang.Iterable</node>
+            <node x="0.0" y="324.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.LinkedList" target="java.util.Deque">
+              <point x="20.80000000000001" y="-15.5" />
+              <point x="357.25178571428575" y="375.0" />
+              <point x="417.5" y="375.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractSequentialList" target="java.util.AbstractList">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.util.List">
+              <point x="0.0" y="-15.5" />
+              <point x="16.75" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-28.5" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.Queue" target="java.util.Collection">
+              <point x="0.0" y="-15.5" />
+              <point x="417.5" y="137.0" />
+              <point x="357.3089285714286" y="137.0" />
+              <point x="35.0" y="15.5" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.lang.Cloneable">
+              <point x="41.60000000000002" y="-15.5" />
+              <point x="378.05178571428576" y="385.0" />
+              <point x="480.5" y="385.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.io.Serializable">
+              <point x="-41.599999999999966" y="-15.5" />
+              <point x="294.85178571428577" y="385.0" />
+              <point x="56.0" y="385.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-15.5" />
+              <point x="320.5" y="137.0" />
+              <point x="322.3089285714286" y="137.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.Deque" target="java.util.Queue">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.List">
+              <point x="28.5" y="-15.5" />
+              <point x="248.00000000000003" y="218.0" />
+              <point x="303.75" y="218.0" />
+              <point x="-16.75" y="15.5" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.util.AbstractSequentialList">
+              <point x="-20.80000000000001" y="-15.5" />
+              <point x="315.6517857142857" y="375.0" />
+              <point x="219.50000000000003" y="375.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-15.5" />
+              <point x="191.00000000000003" y="137.0" />
+              <point x="287.3089285714286" y="137.0" />
+              <point x="-35.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-41.0" y="209.0" />
+          <SelectedNodes>
+            <node>java.io.Serializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/TypeLiterals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="826">
+          <caret line="104" column="5" lean-forward="true" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
           <folding>
-            <element signature="e#2154#2184#1" expanded="true" />
-            <element signature="e#3112#3113#0" expanded="true" />
-            <element signature="e#3131#3132#0" expanded="true" />
-            <element signature="e#3190#3191#0" expanded="true" />
-            <element signature="e#3232#3233#0" expanded="true" />
-            <element signature="e#3481#3482#0" expanded="true" />
-            <element signature="e#3573#3574#0" expanded="true" />
-            <element signature="e#3600#3601#0" expanded="true" />
-            <element signature="e#3626#3627#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2297#2327#1" expanded="true" />
+            <element signature="e#3093#3094#0" expanded="true" />
+            <element signature="e#3123#3124#0" expanded="true" />
+            <element signature="e#3171#3172#0" expanded="true" />
+            <element signature="e#3224#3225#0" expanded="true" />
+            <element signature="e#3461#3462#0" expanded="true" />
+            <element signature="e#3553#3554#0" expanded="true" />
+            <element signature="e#3580#3581#0" expanded="true" />
+            <element signature="e#3618#3619#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="379" column="27" selection-start-line="379" selection-start-column="27" selection-end-line="379" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java09/linkerList/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="336" column="18" selection-start-line="336" selection-start-column="18" selection-end-line="336" selection-end-column="18" />
+          <folding>
+            <element signature="e#10079#10080#0" expanded="true" />
+            <element signature="e#10117#10118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="65" column="35" lean-forward="true" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
         </state>
       </provider>
     </entry>

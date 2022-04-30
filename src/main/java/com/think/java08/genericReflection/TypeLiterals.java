@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
-
 /**
  * @Classname TypeLiterals
  * @Description TODO
@@ -62,7 +61,6 @@ class Formatter{
             result.append("=");
             f.setAccessible(true);
             Function<?,String> formatterForType=rules.get(TypeLiteral.of(f.getGenericType()));
-
             if (formatterForType !=null){
                 @SuppressWarnings("unchecked")
                 Function<Object,String> objectFormatter=(Function<Object,String>)formatterForType;
@@ -77,7 +75,6 @@ class Formatter{
 }
 class TypeLiteral<T>{
     private Type type;
-
     public TypeLiteral() {
         Type parentType = getClass().getGenericSuperclass();
         if (parentType instanceof ParameterizedType){
