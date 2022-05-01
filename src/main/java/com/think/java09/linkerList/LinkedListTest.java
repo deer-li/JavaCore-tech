@@ -3,6 +3,7 @@ package com.think.java09.linkerList;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.ListIterator;
+import java.util.ArrayList;
 
 /**
  * @Classname LinkedListTest
