@@ -27,8 +27,10 @@ public class LinkedListTest {
         Iterator<String> bIter = b.iterator();
         while (bIter.hasNext()){
             if (aIter.hasNext()){
-                aIter.next();
+                //返回列表中的下一个元素并前进光标位置
+                String testaIter=aIter.next();
             }
+            String testbIter=bIter.next();
             aIter.add(bIter.next());
         }
         System.out.println(a);
