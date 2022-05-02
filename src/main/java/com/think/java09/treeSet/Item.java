@@ -1,6 +1,6 @@
 package com.think.java09.treeSet;
 
-import java.util.Deque;
+
 import java.util.Objects;
 
 /**
@@ -56,6 +56,8 @@ public class Item implements Comparable<Item> {
         Object other = (Item)obj;
         return Objects.equals(des,((Item) other).des) && partNumber==((Item) other).partNumber;
     }
+
+    @Override
     public int compareTo(Item other){
         int diff=Integer.compare(partNumber,other.partNumber);
         return diff!=0?diff:des.compareTo(other.des);
