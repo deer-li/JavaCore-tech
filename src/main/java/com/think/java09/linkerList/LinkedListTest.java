@@ -3,7 +3,7 @@ package com.think.java09.linkerList;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.ListIterator;
-import java.util.ArrayList;
+
 
 /**
  * @Classname LinkedListTest
@@ -12,6 +12,7 @@ import java.util.ArrayList;
  * @Date 2022/4/30 10:26
  * @Created by deer-li
  */
+//调用next（）,指针索引到下一元素的头指针出，然后再执行remove（），会把此时指针前面的节点删除
 public class LinkedListTest {
     public static void main(String[] args) {
         LinkedList<String> a = new LinkedList<>();
@@ -33,6 +34,7 @@ public class LinkedListTest {
             String testbIter=bIter.next();
             aIter.add(bIter.next());
         }
+
         System.out.println(a);
         bIter = b.iterator();
         while (bIter.hasNext()){
