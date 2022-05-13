@@ -9,7 +9,7 @@
         <module name="JavaCore tech" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11">
       <module name="JavaCore tech" target="11" />
     </bytecodeTargetLevel>
   </component>
