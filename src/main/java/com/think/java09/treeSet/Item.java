@@ -10,6 +10,7 @@ import java.util.Objects;
  * @Created by deer-li
  */
 public class Item implements Comparable<Item> {
+
     private String des;
     private int  partNumber;
 
