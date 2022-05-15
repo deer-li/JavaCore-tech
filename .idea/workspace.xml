@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/think/java12/unsynch/UnsynchBankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java12/threads/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java12/threads/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/think/java12/threads/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/think/java12/threads/ThreadTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +26,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Bank.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Bank.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/threads/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="685">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="-224">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LambdaTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/lambda/LambdaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LambdaTest2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/lambda/LambdaTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#1358#1359#0" expanded="true" />
+                <element signature="e#1409#1410#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -245,7 +262,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="think" type="462c0819:PsiDirectoryNode" />
-              <item name="java04" type="462c0819:PsiDirectoryNode" />
+              <item name="java06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCore tech" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="think" type="462c0819:PsiDirectoryNode" />
+              <item name="java06" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
@@ -583,12 +610,12 @@
       <workItem from="1652009106342" duration="15000" />
       <workItem from="1652407449024" duration="5404000" />
       <workItem from="1652446075716" duration="689000" />
-      <workItem from="1652492093841" duration="11051000" />
+      <workItem from="1652492093841" duration="13307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265078000" />
+    <option name="totallyTimeSpent" value="267334000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -614,10 +641,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32786885" />
       <window_info anchor="bottom" x="-133" y="213" width="1440" height="900" id="Run" order="2" sideWeight="0.49964157" type="FLOATING" weight="0.3442177" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2462585" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2462585" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.20501792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.20501792" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297491" />
       <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.24946237" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24874552" />
@@ -675,112 +702,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java08/genericReflection/TypeLiterals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="104" column="5" lean-forward="true" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.LinkedList">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.LinkedList</OriginalElement>
-          <nodes>
-            <node x="0.0" y="324.0">java.lang.Cloneable</node>
-            <node x="279.99999999999994" y="162.0">java.util.List</node>
-            <node x="107.99999999999994" y="162.0">java.util.AbstractCollection</node>
-            <node x="262.6839285714285" y="81.0">java.util.Collection</node>
-            <node x="155.49999999999997" y="243.0">java.util.AbstractList</node>
-            <node x="366.99999999999994" y="162.0">java.util.Queue</node>
-            <node x="277.5767857142856" y="405.0">java.util.LinkedList</node>
-            <node x="367.49999999999994" y="243.0">java.util.Deque</node>
-            <node x="125.0" y="324.0">java.util.AbstractSequentialList</node>
-            <node x="269.6839285714285" y="0.0">java.lang.Iterable</node>
-            <node x="420.99999999999994" y="324.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.LinkedList" target="java.util.Deque">
-              <point x="20.80000000000001" y="-15.5" />
-              <point x="350.3767857142857" y="375.0" />
-              <point x="410.49999999999994" y="375.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="java.util.AbstractSequentialList" target="java.util.AbstractList">
-              <point x="-2.8421709430404007E-14" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.util.List">
-              <point x="0.0" y="-15.5" />
-              <point x="16.75" y="15.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
-              <point x="-28.50000000000003" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="java.util.Queue" target="java.util.Collection">
-              <point x="0.0" y="-15.5" />
-              <point x="410.49999999999994" y="137.0" />
-              <point x="350.1839285714285" y="137.0" />
-              <point x="35.0" y="15.5" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.lang.Cloneable">
-              <point x="-41.599999999999966" y="-15.5" />
-              <point x="287.9767857142857" y="385.0" />
-              <point x="52.5" y="385.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.io.Serializable">
-              <point x="41.60000000000002" y="-15.5" />
-              <point x="371.17678571428564" y="385.0" />
-              <point x="476.99999999999994" y="385.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="java.util.List" target="java.util.Collection">
-              <point x="0.0" y="-15.5" />
-              <point x="313.49999999999994" y="137.0" />
-              <point x="315.1839285714285" y="137.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.List">
-              <point x="28.49999999999997" y="-15.5" />
-              <point x="240.99999999999994" y="218.0" />
-              <point x="296.74999999999994" y="218.0" />
-              <point x="-16.75" y="15.5" />
-            </edge>
-            <edge source="java.util.Deque" target="java.util.Queue">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.util.AbstractSequentialList">
-              <point x="-20.799999999999955" y="-15.5" />
-              <point x="308.77678571428567" y="375.0" />
-              <point x="212.5" y="375.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="-2.8421709430404007E-14" y="-15.5" />
-              <point x="183.99999999999991" y="137.0" />
-              <point x="280.1839285714285" y="137.0" />
-              <point x="-35.0" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.8679927667269439" x="267.0" y="218.0" />
-          <SelectedNodes>
-            <node>java.util.LinkedList</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1146,6 +1067,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/threads/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/threads/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -1153,10 +1081,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/threads/Bank.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/lambda/LambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="306">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/lambda/LambdaTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
