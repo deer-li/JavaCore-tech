@@ -1,7 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="" />
+    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/ATypeName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/ImportantStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/InIncrementable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/Incrementable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/StorageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/SystemIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/annotationTohtml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/first.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/packaging.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java02/testMultiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/CompoundInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/FirstSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/InputTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/LotteryArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/LotteryDrawing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/LotteryOdds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/Retirement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java03/Retirement2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/CalendarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/ConstructorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/EmployeeCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/EmployeeCopy2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/EmployeeCopy3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/EmployeeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/ParamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java04/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/abstractClasses/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/abstractClasses/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/abstractClasses/PersonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/abstractClasses/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/enums/EnumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/enums/Size.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/equals/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/equals/EqualsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/equals/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/inheritance/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/inheritance/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/inheritance/ManagerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/objectAnalyzer/ObjectAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/objectAnalyzer/ObjectAnalyzerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java05/reflection/ReflectionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/anoymousInnerClass/AnoymousInnerClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/anoymousInnerClass/TalkingClock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/anoymousInnerClass/TalkingClock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/clone/CloneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/clone/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/innerClass/InnerClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/innerClass/TalkingClock$TimePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/innerClass/TalkingClock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/interfaces/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/interfaces/EmployeeSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/lambda/LambdaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/lambda/LambdaTest2$GreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/lambda/LambdaTest2$MathOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/lambda/LambdaTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/lambda/LambdaTest3$Free.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/lambda/LambdaTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/lambda/LambdaTest4$Convert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/lambda/LambdaTest4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/proxy/ProxyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/proxy/TraceHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/staticInnerClass/ArrayAlg$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/staticInnerClass/ArrayAlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/staticInnerClass/StaticInnerClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/timer/TimePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java06/timer/TimerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java07/logging/ImageViewerFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java07/logging/ImageViewerFrame$FileOpenListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java07/logging/ImageViewerFrame$FileOpenListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java07/logging/ImageViewerFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java07/logging/LoggingImageViewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java07/logging/WindowHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java07/logging/WindowHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java07/stackTrace/StackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/genericReflection/Formatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/genericReflection/GenericReflectionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/genericReflection/TypeLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/genericReflection/TypeLiterals$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/genericReflection/TypeLiterals$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/genericReflection/TypeLiterals$Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/genericReflection/TypeLiterals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/pair1/ArrayAlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/pair1/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/pair1/PairTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/pair2/ArrayAlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/pair2/PairTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/pair3/PairAlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java08/pair3/PairTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java09/linkerList/LinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java09/map/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java09/map/MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java09/priorityQueue/PriorityQueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java09/set/SetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java09/shuffle/ShuffleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java09/sieve/Sieve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java09/treeSet/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java09/treeSet/TreeSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java12/threads/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java12/threads/ThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/think/java12/unsynch/UnsynchBankTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/SingleObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/SingletonPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/traverse/TraverseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/traverse/TraverseMap.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +139,7 @@
       <file leaf-file-name="Bank.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/threads/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-224">
+            <state relative-caret-position="416">
               <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
@@ -38,7 +148,7 @@
       <file leaf-file-name="LambdaTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/lambda/LambdaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="572">
               <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
             </state>
           </provider>
@@ -47,8 +157,8 @@
       <file leaf-file-name="LambdaTest2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/lambda/LambdaTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="-18">
+              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
               <folding>
                 <element signature="e#1358#1359#0" expanded="true" />
                 <element signature="e#1409#1410#0" expanded="true" />
@@ -60,7 +170,7 @@
       <file leaf-file-name="ThreadTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/threads/ThreadTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="962">
               <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
             </state>
           </provider>
@@ -69,7 +179,7 @@
       <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="5668">
               <caret line="262" column="32" selection-start-line="262" selection-start-column="32" selection-end-line="262" selection-end-column="32" />
               <folding>
                 <element signature="e#17049#17050#0" expanded="true" />
@@ -82,8 +192,8 @@
       <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/lang/Runnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="60" column="14" lean-forward="true" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+            <state relative-caret-position="962">
+              <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -91,7 +201,7 @@
       <file leaf-file-name="UnsynchBankTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/unsynch/UnsynchBankTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="546">
               <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
             </state>
           </provider>
@@ -210,8 +320,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
-    <option name="width" value="1936" />
-    <option name="height" value="1048" />
+    <option name="width" value="2906" />
+    <option name="height" value="1730" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -221,7 +331,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,38 +435,10 @@
               <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCore tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,7 +464,7 @@
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-11.0.14/lib/jfr" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -610,12 +694,13 @@
       <workItem from="1652009106342" duration="15000" />
       <workItem from="1652407449024" duration="5404000" />
       <workItem from="1652446075716" duration="689000" />
-      <workItem from="1652492093841" duration="13307000" />
+      <workItem from="1652492093841" duration="13600000" />
+      <workItem from="1653185399423" duration="743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267334000" />
+    <option name="totallyTimeSpent" value="268370000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,7 +717,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49749103" weight="0.3292517" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -641,10 +725,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32786885" />
       <window_info anchor="bottom" x="-133" y="213" width="1440" height="900" id="Run" order="2" sideWeight="0.49964157" type="FLOATING" weight="0.3442177" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2462585" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2462585" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.20501792" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.20788531" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297491" />
       <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.24946237" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24874552" />
@@ -658,6 +742,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292517" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49749103" weight="0.3292517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -702,6 +787,17 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/lambda/LambdaTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding>
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -971,9 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4836">
           <caret line="212" column="18" selection-start-line="212" selection-start-column="18" selection-end-line="212" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -981,9 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1005,9 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
           <caret line="27" column="1" selection-start-line="12" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1039,26 +1126,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java04/summerize04.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/unsynch/UnsynchBankTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="546">
           <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="60" column="14" lean-forward="true" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+        <state relative-caret-position="962">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="5668">
           <caret line="262" column="32" selection-start-line="262" selection-start-column="32" selection-end-line="262" selection-end-column="32" />
           <folding>
             <element signature="e#17049#17050#0" expanded="true" />
@@ -1069,29 +1153,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/threads/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-224">
+        <state relative-caret-position="416">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java12/threads/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="962">
           <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/lambda/LambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="572">
           <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/think/java06/lambda/LambdaTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="-18">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
           <folding>
             <element signature="e#1358#1359#0" expanded="true" />
             <element signature="e#1409#1410#0" expanded="true" />
@@ -1116,7 +1200,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1151,7 +1235,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JavaCore tech</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1175,7 +1259,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.0</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
