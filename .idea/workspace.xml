@@ -7,125 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaCore tech.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaCore tech.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/SingleObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/ATypeName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/ImportantStatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/InIncrementable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/Incrementable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/StaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/StorageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/SystemIn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/annotationTohtml.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/first.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/packaging.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java02/testMultiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java03/CompoundInterest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java03/FirstSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java03/InputTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java03/LotteryArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java03/LotteryDrawing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java03/LotteryOdds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java03/Retirement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java03/Retirement2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java04/CalendarTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java04/ConstructorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java04/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java04/EmployeeCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java04/EmployeeCopy2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java04/EmployeeCopy3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java04/EmployeeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java04/ParamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java04/StaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/abstractClasses/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/abstractClasses/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/abstractClasses/PersonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/abstractClasses/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/enums/EnumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/enums/Size.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/equals/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/equals/EqualsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/equals/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/inheritance/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/inheritance/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/inheritance/ManagerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/objectAnalyzer/ObjectAnalyzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/objectAnalyzer/ObjectAnalyzerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java05/reflection/ReflectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/anoymousInnerClass/AnoymousInnerClassTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/anoymousInnerClass/TalkingClock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/anoymousInnerClass/TalkingClock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/clone/CloneTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/clone/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/innerClass/InnerClassTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/innerClass/TalkingClock$TimePrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/innerClass/TalkingClock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/interfaces/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/interfaces/EmployeeSortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/lambda/LambdaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/lambda/LambdaTest2$GreetingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/lambda/LambdaTest2$MathOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/lambda/LambdaTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/lambda/LambdaTest3$Free.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/lambda/LambdaTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/lambda/LambdaTest4$Convert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/lambda/LambdaTest4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/proxy/ProxyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/proxy/TraceHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/staticInnerClass/ArrayAlg$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/staticInnerClass/ArrayAlg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/staticInnerClass/StaticInnerClassTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/timer/TimePrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java06/timer/TimerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java07/logging/ImageViewerFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java07/logging/ImageViewerFrame$FileOpenListener$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java07/logging/ImageViewerFrame$FileOpenListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java07/logging/ImageViewerFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java07/logging/LoggingImageViewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java07/logging/WindowHandler$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java07/logging/WindowHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java07/stackTrace/StackTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/genericReflection/Formatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/genericReflection/GenericReflectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/genericReflection/TypeLiteral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/genericReflection/TypeLiterals$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/genericReflection/TypeLiterals$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/genericReflection/TypeLiterals$Sample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/genericReflection/TypeLiterals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/pair1/ArrayAlg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/pair1/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/pair1/PairTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/pair2/ArrayAlg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/pair2/PairTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/pair3/PairAlg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java08/pair3/PairTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java09/linkerList/LinkedListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java09/map/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java09/map/MapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java09/priorityQueue/PriorityQueueTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java09/set/SetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java09/shuffle/ShuffleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java09/sieve/Sieve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java09/treeSet/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java09/treeSet/TreeSetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java12/threads/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java12/threads/ThreadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think1/java12/unsynch/UnsynchBankTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think2/java02/textFile/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/think2/java02/textFile/TextFileTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/SingleObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/designpattern/SingletonPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/traverse/TraverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/traverse/TraverseMap.class" beforeDir="false" />
-    </list>
+    <list default="true" id="118e2467-c1d5-485a-b19d-a7bf80a464de" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -337,7 +219,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
@@ -570,7 +454,7 @@
       <workItem from="1658211687173" duration="1092000" />
       <workItem from="1658382955822" duration="50000" />
       <workItem from="1658739619374" duration="22000" />
-      <workItem from="1661914971696" duration="451000" />
+      <workItem from="1661914971696" duration="987000" />
     </task>
     <servers />
   </component>
